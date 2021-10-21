@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6124939d-af08-4f38-9fc6-70317d6f74d7" name="Changes" comment="-version ready to Cr">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zV15lUgzfh3Qz7OsYZQHTzNoTo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/styles" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6124939d-af08-4f38-9fc6-70317d6f74d7" name="Changes" comment="initial commit" />
+      <created>1634218281437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634218281437</updated>
+      <workItem from="1634218287392" duration="12479000" />
+      <workItem from="1634281521853" duration="14720000" />
+      <workItem from="1634325764180" duration="4952000" />
+      <workItem from="1634399536728" duration="9223000" />
+      <workItem from="1634460281114" duration="1086000" />
+      <workItem from="1634461382098" duration="3088000" />
+      <workItem from="1634476367261" duration="11326000" />
+      <workItem from="1634537549048" duration="7518000" />
+      <workItem from="1634545461525" duration="2779000" />
+      <workItem from="1634549091772" duration="301000" />
+      <workItem from="1634549808433" duration="10697000" />
+      <workItem from="1634565241900" duration="2719000" />
+      <workItem from="1634573050942" duration="5387000" />
+      <workItem from="1634661996618" duration="18940000" />
+      <workItem from="1634735544150" duration="19193000" />
+      <workItem from="1634819590053" duration="6336000" />
+    </task>
+    <task id="LOCAL-00001" summary="-implementing User Registration, and User Log in">
+      <created>1634325197397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634325197397</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-local commit before refactor">
+      <created>1634565274413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634565274413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor">
+      <created>1634565983774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634565983774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- add Lists ,and remove list work correctly">
+      <created>1634736590839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634736590839</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- styles added">
+      <created>1634747057494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634747057494</updated>
+    </task>
+    <task id="LOCAL-00006" summary="-version ready to Cr">
+      <created>1634825623776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634825623776</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="-implementing User Registration, and User Log in" />
+    <MESSAGE value="-local commit before refactor" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="- add Lists ,and remove list work correctly" />
+    <MESSAGE value="- styles added" />
+    <MESSAGE value="-version ready to Cr" />
+    <option name="LAST_COMMIT_MESSAGE" value="-version ready to Cr" />
+  </component>
+</project>

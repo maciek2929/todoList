@@ -1,0 +1,17 @@
+{
+  "extends": ["react-app", "react-app/jest","plugin:prettier/recommended", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "prettier/prettier":["warn",{"singleQuote":true,
+      "printWidth": 150}]
+    // in this place we added rules from prettier
+  },
+  "env": {
+    "browser":true,
+    "node":true,
+    "es6":true
+
+  },
+  "parser":"babel-eslint"
+}
